@@ -61,4 +61,4 @@ CALL fetch_employee_data();
 ![2](https://github.com/Divya110205/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119404855/60508395-7d88-4821-af32-7fadf3f55bbf)
 
 ### Result:
-The program is implemented successfully,
+The program is implemented successfully.
